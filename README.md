@@ -15,4 +15,5 @@ just run `pod install` in project directory
 3. more capability will up...
 
 ### what's it like
+![](profile/images/profile.gif)
 ![](profile/images/profile.png)
