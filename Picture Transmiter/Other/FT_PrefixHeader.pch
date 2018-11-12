@@ -1,0 +1,17 @@
+//
+//  FT_PrefixHeader.pch
+//  File Transmiter
+//
+//  Created by Dobby on 2018/11/12.
+//  Copyright © 2018 dobby. All rights reserved.
+//
+
+#ifndef FT_PrefixHeader_pch
+#define FT_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "FTGlobalConfig.h"
+
+
+#endif /* FT_PrefixHeader_pch */
